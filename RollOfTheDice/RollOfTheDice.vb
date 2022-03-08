@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2020
 'Roll of the Dice
-'https://github.com/jmcarth4/
+'https://github.com/jmcarth4/RollOfTheDice
 
 Option Explicit On
 Option Strict On
